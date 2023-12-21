@@ -96,6 +96,7 @@
   </a> 
 </p>
 
+<!--
 <p align="center">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tylerhartwell&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="tylerhartwell" />
@@ -106,6 +107,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=tylerhartwell&show_icons=true&theme=tokyonight&locale=en" alt="tylerhartwell" />
   </p>
 </p>
+-->
 
 <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tylerhartwell&" alt="tylerhartwell" width="50%"/>
