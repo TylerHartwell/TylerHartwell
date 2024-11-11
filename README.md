@@ -2,31 +2,14 @@
 <h3 align="center">A software engineer from San Diego, CA</h3>
 <br>
 <p align="center"> 
-<!--   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tylerhartwell&title=Commits,PullRequest,Repositories&theme=darkhub&column=3" alt="tylerhartwell" />
-  </a>  -->
-  Recent Projects: 
-  <p align="center">
-    <a href="https://putitonthelist.netlify.app/">
-      Put It On The List 
-      <img src="https://github.com/TylerHartwell/TylerHartwell/assets/44123194/c5df79bb-e95a-40cc-a09b-2c10b8a14b74" alt="put i on the list top hat cat cart" height="60" width="60"/>
+  Visit my website to see my most recent projects: 
+    <a href="https://www.tylerhartwell.com/">
+      tylerhartwell.com
     </a>
-  </p>
-  <br>
-  <p align="center">
-    <a href="https://sudoku-ruler.netlify.app/">
-      Sudoku Ruler
-      <img src="https://github.com/TylerHartwell/TylerHartwell/assets/44123194/beb7abfe-1acf-4954-8f60-fffced938b70" alt="sudoku ruler logo" height="50" width="50"/>
-    </a>
-  </p>
-
 </p>
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/tyler-hartwell-80160461" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tylerhartwell" height="30" width="40" />
   </a>
@@ -34,11 +17,11 @@
   <br>
   <a href="mailto:thartwell37@gmail.com" target="_blank">
     thartwell37@gmail.com
-    <!---<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/> -->
+<!--     <img src="https://fontawesome.com/icons/envelope?f=classic&s=regular" alt="email"/> -->
   </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
+<br>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <!--   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
@@ -112,3 +95,9 @@
 <p align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tylerhartwell&" alt="tylerhartwell" width="50%"/>
 </p>
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" >
+    <img src="https://github-profile-trophy.vercel.app/?username=tylerhartwell&title=Commits,PullRequest,Repositories&theme=darkhub&column=3" alt="tylerhartwell" />
+  </a> 
+</p>
+
